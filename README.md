@@ -49,10 +49,10 @@ Screenshot of the successful compilation of the contract, Added to the Evaluatio
 In this section, I have included a video of how I deployed the KaseiCoin Crowdsale contract
 
 ### Deploying the KaseiCoin Crowdsale Contract
-![alt text](https://github.com/madhugirl/crowd-sale/blob/main/Evaluation%20Evidence/Contract%20Deployment%20for%20Crowdsale%20Final.mp4)
+![alt text](https://github.com/madhugirl/crowd-sale/blob/main/Evaluation%20Evidence/contract%20deployment.gif)
 
 ### Interacting with the KaseiCoin Crowdsale and Token Purchases
-![alt text](https://github.com/madhugirl/crowd-sale/blob/main/Evaluation%20Evidence/Proof%20of%20Crowdsale%20Token%20Purchases.mp4)
+![alt text](https://github.com/madhugirl/crowd-sale/blob/main/Evaluation%20Evidence/proof%20of%20coin%20purchase.gif)
 
 #### Raised Capital from the KaseiCoin Crowdsale
 
